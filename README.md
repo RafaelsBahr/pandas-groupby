@@ -1,1 +1,1 @@
-﻿# Exercícios de Pandas: groupby com preços Apple
+# Exercícios de Pandas: groupby com preços Apple
